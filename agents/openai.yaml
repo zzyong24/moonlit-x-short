@@ -1,0 +1,5 @@
+interface:
+  display_name: "月明·X 内容"
+  short_description: "生成月明品牌的 X 单条短帖或连续自回复线程"
+  brand_color: "#39EC88"
+  default_prompt: "使用 $moonlit-x-short 把这篇内容改写为月明品牌的 X 线程。"
