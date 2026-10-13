@@ -4,7 +4,7 @@ description: 月明水清深 X 内容生成 sub-skill。支持单条短帖和主
 metadata:
   display_name: 月明·X 短文
   icon: icon.svg
-  updated: "2026-09-07"
+  updated: "2026-10-04"
 ---
 
 # 🌙 moonlit-x-short · X 内容 sub-skill
@@ -14,7 +14,11 @@ metadata:
 - 主入口 `moonlit-content-engine` 引导做 X 分发时
 - 用户单独要求 X 短帖、线程、thread、帖子串或连续自回复
 
-## 输出位置
+## 共同输入与改写
+
+按当前工程激活目录读取 `moonlit-content-engine/references/content-master-contract.md`，从作品 contentMaster 或用户已确认的事实简述与证据起稿，不强制先写公众号。为本次读者重新组织判断与证据顺序；不机械截段或填满帖子数量。已选 short/thread 范围优先，输出登记实际 inputs，知识回流遵守工作区规范。
+
+## 产物位置
 
 写入当前作品的 `content/social/`，不要写入 Skill 目录。
 
